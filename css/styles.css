@@ -46,4 +46,6 @@ button:hover{
     background-color: white;
     color:forestgreen;
 }
-
+input{
+    width:80px;
+}
